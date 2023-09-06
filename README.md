@@ -14,7 +14,7 @@ The base URL for all API endpoints is `http://localhost:3000`.
 - **Request Body:**
     - `name` (string, required): The user's name.
     - `email` (string, required): The user's email address.
-    - `password` (string, required): The user's password.
+    - `username` (string, required): The user's username.
 
 ### Get a User by ID
 
@@ -41,7 +41,7 @@ The base URL for all API endpoints is `http://localhost:3000`.
   - **Body:**
     - `name` (string): The updated user's name (optional).
     - `email` (string): The updated user's email address (optional).
-    - `password` (string): The updated user's password (optional).
+    - `username` (string): The updated user's password (optional).
 
 ### Delete a User
 
