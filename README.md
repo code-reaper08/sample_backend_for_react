@@ -1,8 +1,12 @@
 # API Documentation
 
+### `npm install`
+
+Give this command in terminal and then change the MonogDb url in `index.js` and you are set to go
+
 ## Base URL
 
-The base URL for all API endpoints is `http://localhost:3000`.
+The base URL for all API endpoints is `http://localhost:4000`.
 
 ## User Routes
 
